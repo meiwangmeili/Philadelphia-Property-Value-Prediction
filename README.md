@@ -12,7 +12,7 @@ These notebooks serve as the final project of Job Connector-Data Science and Mac
 
 ## Background
 <p align='justify' style="font-weight: bold;">
-Philadelphia city is one of the hottest real estate market in the US. Before we want to sell a house we need to know the market price and in order to get the number usually we need to hire a profesional appraiser that usually cost around $300 per building. In this project, we will aid the promotion by providing predicted market value of properties obtained by machine learning model. Hopefully, it will reduce the cost of property appraisal. And also, with a justified market value based on property characteristics and location, both buyer and seller will be benefitted, thus hypothetically will lead to increase in success transaction of properties.
+Philadelphia city is one of the hottest real estate market in the US. Before we want to sell a buildig we need to know the market price and in order to get the number usually we need to hire a profesional appraiser that usually cost around $300 per building. In this project, we will aid the promotion by providing predicted market value of properties obtained by machine learning model. Hopefully, it will reduce the cost of property appraisal. And also, with a justified market value based on property characteristics and location, both buyer and seller will be benefitted, thus hypothetically will lead to increase in success transaction of properties.
 </p>
 
 ## Dataset Source
